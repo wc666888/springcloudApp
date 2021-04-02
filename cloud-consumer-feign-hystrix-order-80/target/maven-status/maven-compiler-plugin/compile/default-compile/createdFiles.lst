@@ -1,0 +1,4 @@
+com\liuscoding\springcloud\service\PaymentHystrixService.class
+com\liuscoding\springcloud\service\PaymentFallbackService.class
+com\liuscoding\springcloud\OrderHystrixApplication80.class
+com\liuscoding\springcloud\controller\OrderHystrixController.class

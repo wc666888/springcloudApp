@@ -1,0 +1,4 @@
+E:\Git代码\springcloud-2020\cloud-consumer-feign-hystrix-order-80\src\main\java\com\liuscoding\springcloud\service\PaymentHystrixService.java
+E:\Git代码\springcloud-2020\cloud-consumer-feign-hystrix-order-80\src\main\java\com\liuscoding\springcloud\service\PaymentFallbackService.java
+E:\Git代码\springcloud-2020\cloud-consumer-feign-hystrix-order-80\src\main\java\com\liuscoding\springcloud\OrderHystrixApplication80.java
+E:\Git代码\springcloud-2020\cloud-consumer-feign-hystrix-order-80\src\main\java\com\liuscoding\springcloud\controller\OrderHystrixController.java

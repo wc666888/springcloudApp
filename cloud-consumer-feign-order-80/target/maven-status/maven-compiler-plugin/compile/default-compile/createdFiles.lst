@@ -1,0 +1,4 @@
+com\liuscoding\springcloud\service\PaymentFeignService.class
+com\liuscoding\springcloud\config\FeignConfig.class
+com\liuscoding\springcloud\controller\OrderFeignController.class
+com\liuscoding\springcloud\OrderFeignApplication80.class

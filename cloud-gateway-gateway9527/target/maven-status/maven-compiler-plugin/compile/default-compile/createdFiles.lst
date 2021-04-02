@@ -1,0 +1,3 @@
+com\liuscoding\springcloud\config\GateWayConfig.class
+com\liuscoding\springcloud\GateWayApplication9527.class
+com\liuscoding\springcloud\filter\MyLogGateWayFilter.class

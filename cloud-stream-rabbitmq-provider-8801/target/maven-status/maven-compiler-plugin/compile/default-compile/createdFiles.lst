@@ -1,0 +1,4 @@
+com\liuscoding\springcloud\service\impl\MessageProviderImpl.class
+com\liuscoding\springcloud\StreamMQApplication8801.class
+com\liuscoding\springcloud\controller\SendMessageController.class
+com\liuscoding\springcloud\service\IMessageProvider.class

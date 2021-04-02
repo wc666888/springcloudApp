@@ -1,0 +1,5 @@
+com\liuscoding\springcloud\service\impl\PaymentFallbackService.class
+com\liuscoding\springcloud\controller\CircleBreakerController.class
+com\liuscoding\springcloud\service\PaymentService.class
+com\liuscoding\springcloud\config\ApplicationContextConfig.class
+com\liuscoding\springcloud\OrderNacosApplication84.class
